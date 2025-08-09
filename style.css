@@ -105,6 +105,12 @@ button:hover{
   transition: all 100ms ease-in;
 }
 
+.lasersword_wrapper {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+
 .rotation {
   animation: rotationSword 500ms ease-in-out forwards;
 }
